@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 
           I'm  Tejaswa Shrivastava</h1>
 <h3 align="center">A passionate Web Developer and Coder.</h3>
-<img align="right" alt="Coding" width="400" src="  https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/87914098/144739127-1952c8a5-edc5-4685-98b6-b5b92838fbde.gif   ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejaswa-Shrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="Tejaswa-Shrivastava" /> </p>
 
