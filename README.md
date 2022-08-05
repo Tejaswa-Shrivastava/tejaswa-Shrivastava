@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif"
+<h1 align="center">Hey! 
             alt="waving"
             height="45"
             width="45"  />  I'm  Tejaswa Shrivastava</h1>
