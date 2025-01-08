@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and DBMS**
+- 🌱 Proficient in **DSA, DBMS, OS, CNS, OOPs, CN, ML, AI**
 
-- 💬 Ask me about **c/Python/Java**
+- 💬 Ask me about **C++/C/Python/Java**
 
 - 📫 How to reach me **tejaswa.shrivastava04@gmail.com**
 
